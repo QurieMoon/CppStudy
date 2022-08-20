@@ -1,3 +1,15 @@
+# Ignore all
+*
+
+# Do not ignore all with extensions
+!*.*
+
+# Do not ignore all dirs
+!*/
+
+# vscode
+*/.vscode/
+
 # Prerequisites
 *.d
 
